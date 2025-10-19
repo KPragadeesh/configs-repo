@@ -1,0 +1,11 @@
+build:
+    version: "0.0.1-PROD"
+
+accounts:
+    message: "Welcome to Strata Accounts Service - PROD"
+    contactDetails:
+        name: "Strata Support - PROD"
+        email: "prod@fw.com"
+    onCallSupport:
+        - 800-555-2222
+        - 800-555-3333

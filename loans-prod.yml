@@ -1,0 +1,12 @@
+build:
+  version: "0.0.1-PROD"
+
+
+loans:
+  message: "Welcome to loans Service - Prod"
+  contactDetails:
+    name: "loans Support - Prod"
+    email: "qa@fw.com"
+  onCallSupport:
+    - 800-555-0000
+    - 800-555-1111

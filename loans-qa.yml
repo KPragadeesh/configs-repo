@@ -1,0 +1,11 @@
+build:
+  version: "0.0.1-QA"
+
+loans:
+  message: "Welcome to Loans Service - QA"
+  contactDetails:
+    name: "Loans Support - QA"
+    email: "qa@fw.com"
+  onCallSupport:
+    - 800-555-0000
+    - 800-555-1111

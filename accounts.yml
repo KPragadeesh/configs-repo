@@ -1,0 +1,12 @@
+build:
+  version: "0.0.1-SNAPSHOT"
+
+#approach 3
+accounts:
+  message: "Welcome to Strata Accounts Service local profile"
+  contactDetails:
+    name: "Strata Support"
+    email: "john@example.com"
+  onCallSupport:
+    - 800-555-1234
+    - 800-555-5678

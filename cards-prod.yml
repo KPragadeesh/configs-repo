@@ -1,0 +1,14 @@
+build:
+  version: 1.6
+
+cards:
+  message: "Welcome to Cards Service Prod profile"
+  contactDetails:
+    name: "Cards Support - Prod"
+    email: "cards.fw.com"
+  onCallSupport:
+    - 800-555-9999
+    - 800-555-8888
+  cardTypes:
+    - "Visa"
+    - "MasterCard"
