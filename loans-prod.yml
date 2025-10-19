@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to loans Service - Prod"
+  message: "Welcome to loans Service - production"
   contactDetails:
     name: "loans Support - Prod"
     email: "qa@fw.com"
