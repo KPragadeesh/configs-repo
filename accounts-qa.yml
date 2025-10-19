@@ -5,7 +5,7 @@ accounts:
     message: "Welcome to Strata Accounts Service - QA"
     contactDetails:
         name: "Strata Support - QA"
-        email: "qa@fw.com"
+        email: "eb04478e4ee9b9a49bb340c79905ed8c2121227624237d5951214a5c5470c8c2"
     onCallSupport:
         - 800-555-0000
         - 800-555-1111
