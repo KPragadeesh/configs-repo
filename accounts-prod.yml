@@ -2,7 +2,7 @@ build:
     version: "0.0.1-PROD"
 
 accounts:
-    message: "Welcome to Strata Accounts Service - webhook"
+    message: "Welcome to Strata Accounts Service - prod"
     contactDetails:
         name: "Strata Support - PROD"
         email: "prod@fw.com"
