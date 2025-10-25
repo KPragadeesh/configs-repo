@@ -3,7 +3,7 @@ build:
 
 
 loans:
-  message: "Welcome to loans Service - webhook"
+  message: "Welcome to loans Service - prod"
   contactDetails:
     name: "loans Support - Prod"
     email: "qa@fw.com"
