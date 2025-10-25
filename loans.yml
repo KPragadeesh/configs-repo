@@ -3,7 +3,7 @@ build:
 
 #approach 3
 loans:
-  message: "Welcome to loans Service local profile"
+  message: "Welcome to loans Service local webhook profile"
   contactDetails:
     name: "loans Support"
     email: "john@example.com"
