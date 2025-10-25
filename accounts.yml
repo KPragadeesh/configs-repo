@@ -3,7 +3,7 @@ build:
 
 #approach 3
 accounts:
-  message: "Welcome to Strata Accounts Service local profile"
+  message: "Welcome to Strata Accounts Service local webhook profile"
   contactDetails:
     name: "Strata Support"
     email: "john@example.com"
