@@ -12,15 +12,6 @@ spring:
               enabled: false
               lower-case-service-id: true
 
-management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-  info:
-    env:
-      enabled: true
-
 eureka:
   instance:
     preferIpAddress: true
@@ -29,10 +20,3 @@ eureka:
     registerWithEureka: true
     serviceUrl:
       defaultZone: http://localhost:9070/eureka/
-
-
-info:
-  app:
-    name: "gateway-server"
-    description: "E2E Bank Gateway Server Application"
-    version: "1.0.0"
